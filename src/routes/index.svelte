@@ -28,7 +28,7 @@
 </svelte:head>
 
 <h1 class="text-4xl mb-10 font-extrabold">
-  SK Blog
+  SK Blog!
 </h1>
 
 {#each posts as {title,slug,excerpt,coverImage,tags}}
